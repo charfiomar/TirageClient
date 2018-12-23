@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+
+body {
+	background-image: url('../img/background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Roboto';
+}
+
+.wrapper {
+	margin-top: 4rem;
+}
+
+.firstrow .secondrow{
+	margin-bottom: 4rem;
+}
